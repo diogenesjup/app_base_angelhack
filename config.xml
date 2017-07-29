@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "ANGELHACKGRUPO3-TESTE"
+        id        = "REALIZA-GRUPO-2016"
         versionCode = "2" 
-        version   = "1.2">
-    <name>App teste 2</name>
+        version   = "2">
+    <name>Easy Clenan</name>
 
     <description>
-        Aplicativo de teste Diogenes, Vinicius e Carol | AngelHack 2017
+        Aplicativo excluviso para colaboradores do Grupo Realiza
     </description>
 
-    <author href="http://diogenesjunior.com.br/" email="teste2@cielo.com.br">
-        GRUPO 3 TESTE
+    <author href="http://realizagrupo.com.br/" email="contato@realizagrupo.com.br">
+        TI REALIZA GRUPO
     </author>
     <!--
         If you do not want any permissions to be added to your app, add the
@@ -85,17 +85,17 @@
         <access />            
         <access origin="*" /> 
 
-        <access origin="https://diogenesjunior.com.br" />                    
-        <access origin="https://diogenesjunior.com.br" subdomains="true" /> 
-        <access origin="https://diogenesjunior.com.br" browserOnly="true" />     
+        <access origin="http://realizagrupo.com.br" />                    
+        <access origin="http://realizagrupo.com.br" subdomains="true" /> 
+        <access origin="http://realizagrupo.com.br" browserOnly="true" />     
 
     <access origin="*"/>
 
-    <access origin="*://*.diogenesjunior.com.br/*"/>
-    <allow-navigation href="*://*.diogenesjunior.com.br/*"/>
+    <access origin="*://*.realizagrupo.com.br/*"/>
+    <allow-navigation href="*://*.realizagrupo.com.br/*"/>
 
-    <access origin="*://*.diogenesjunior.com.br/*"/>
-    <allow-navigation href="*://*.diogenesjunior.com.br/*"/>
+    <access origin="*://*.realizagrupo.com.br/*"/>
+    <allow-navigation href="*://*.realizagrupo.com.br/*"/>
 
     <!-- Added the following intents to support the removal of whitelist code from base cordova to a plugin -->
     <!-- Whitelist configuration. Refer to https://cordova.apache.org/docs/en/edge/guide_appdev_whitelist_index.md.html -->
