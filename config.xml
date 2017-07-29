@@ -3,10 +3,10 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "REALIZA-GRUPO-2016"
+        id        = "ANGELHACKGRUPO3-T"
         versionCode = "1" 
         version   = "1">
-    <name>App teste 1</name>
+    <name>App teste 2</name>
 
     <description>
         Aplicativo de teste Diogenes, Vinicius e Carol | AngelHack 2017
