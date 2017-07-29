@@ -4,16 +4,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "ANGELHACKGRUPO3-T"
-        versionCode = "1" 
-        version   = "1">
+        versionCode = "1.2" 
+        version   = "1.2">
     <name>App teste 2</name>
 
     <description>
         Aplicativo de teste Diogenes, Vinicius e Carol | AngelHack 2017
     </description>
 
-    <author href="http://angelhack2017.com.br/" email="diogenesjunior.ti@gmail.com">
-        GRUPO 3
+    <author href="http://diogenesjunior.com.br/" email="teste2@cielo.com.br">
+        GRUPO 3 TESTE
     </author>
     <!--
         If you do not want any permissions to be added to your app, add the
